@@ -24,7 +24,12 @@ Csv file was generated from the query tool. Sample data is shown below
 
 ### Vacation Search 
 
-Google API key, weather CSV file resulting from weather Database query tool was imported along with dependencies to get the hotel information. The query tool was build such that initially it filters cities in desired temperature range, dropping the cities which had any empty rows, and then selecting hotel information through for loop, skipping a city if hotel information was not found. A csv was created which stored this clean data and retried the markup map was created so that city name, country code and weather description with max temperature was shown in the pop up. 
+Google API key, weather CSV file resulting from weather Database query tool was imported along with dependencies to get the hotel information. The query tool was build such that initially it filters cities in desired temperature range, dropping the cities which had any empty rows, and then selecting hotel information through for loop, skipping a city if hotel information was not found. A csv was created which stored this clean data and markup map was created so that city name, country code and weather description with max temperature was shown in the pop up. 
+
+Sample of few markups for worldwide hotel data retrieved 
+
+![image](https://user-images.githubusercontent.com/42523379/197007287-f4c50c16-18db-4e73-bc1b-fa5c1a3ab4e7.png)
+
 
 ### Vacation Itenerary
 
