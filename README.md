@@ -17,7 +17,10 @@ Several resources such as google open resource and open weather maps were utiliz
   -	Wind speed  
   -	Weather description 
 
-Csv file was generated from the query tool. 
+Csv file was generated from the query tool. Sample data is shown below 
+
+![image](https://user-images.githubusercontent.com/42523379/197006937-8f23091f-335d-4297-a0a7-d58911ddaadc.png)
+
 
 ### Vacation Search 
 
